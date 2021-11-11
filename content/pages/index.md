@@ -30,7 +30,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: flex-end
-        flexDirection: col
+        flexDirection: row
         borderRadius: none
         borderWidth: 0
         borderStyle: none
