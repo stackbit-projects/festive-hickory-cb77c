@@ -64,6 +64,7 @@ sections:
       controls: false
       elementId: ''
       type: VideoBlock
+      thumbnailUrl: /images/about.jpg
   - elementId: ''
     variant: variant-c
     colors: colors-a
