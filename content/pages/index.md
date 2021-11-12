@@ -31,7 +31,7 @@ sections:
         alignItems: center
         justifyContent: flex-end
         flexDirection: row
-        borderRadius: none
+        borderRadius: full
         borderWidth: 8
         borderStyle: double
         borderColor: border-neutral
