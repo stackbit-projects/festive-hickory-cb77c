@@ -31,7 +31,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: medium
+        borderRadius: large
         borderWidth: 8
         borderStyle: double
         borderColor: border-neutral
