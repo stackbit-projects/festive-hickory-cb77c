@@ -32,7 +32,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "למד יותר",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
