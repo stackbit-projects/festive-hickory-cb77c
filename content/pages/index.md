@@ -32,7 +32,7 @@ sections:
         justifyContent: flex-end
         flexDirection: row
         borderRadius: none
-        borderWidth: 4
+        borderWidth: 8
         borderStyle: double
         borderColor: border-neutral
       title:
