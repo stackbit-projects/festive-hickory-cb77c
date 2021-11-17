@@ -48,7 +48,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: large
         borderWidth: 8
         borderStyle: double
