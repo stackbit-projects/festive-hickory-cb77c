@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: Hi there
         altText: Learn more
         url: /
         showIcon: false
